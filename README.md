@@ -1,6 +1,7 @@
 ## Welcome to NYC Activities
 
 10/21 Port Imperial Autumn Festival
+<img src="https://github.com/echo200205/Kids_Fun_Activities.github.io/blob/master/Fall-Festival.jpg">
 Event Information
 - Dates: Saturday, October 21, 2017
 - Times: 11:00AM – 3:00pm
