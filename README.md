@@ -38,7 +38,7 @@ Event Information
 Event Information
 - Dates: Sunday, October 29, 2017
 - Times: 4:00PM – 7:00pm
-- Location: Location: Harlem Meer (East side from 106th to 110th Street)
+- Location: Harlem Meer (East side from 106th to 110th Street)
 - Tickets: Free
 
 10/31 Family Halloween Bash on the Pedestrian Mall
