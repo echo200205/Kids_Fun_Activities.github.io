@@ -40,3 +40,11 @@ Event Information
 - Times: 4:00PM – 7:00pm
 - Location: Location: Harlem Meer (East side from 106th to 110th Street)
 - Tickets: Free
+
+10/31 Family Halloween Bash on the Pedestrian Mall
+
+Event Information
+- Dates: Tuesday, October 31, 2017
+- Times: 3:00PM – 7:00pm
+- Location: Newark Avenue Pedestrian Mall 119-158 Newark Ave, Jersey City, New Jersey 07302
+- Tickets: Free
