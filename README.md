@@ -1,5 +1,7 @@
 ## Welcome to NYC Activities
 
+### October Activities
+
 10/21 Port Imperial Autumn Festival
 
 <img src="Images/Fall-Festival.png" class="inline"/>
