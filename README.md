@@ -22,7 +22,9 @@ Event Information
 - Times: 12:00PM – 10:00pm
 - Tickets: Free
 
-10/28 [Halloween Fun at American Museum of Natural History](https://www.amnh.org/calendar/halloween-celebration) 
+10/28 [Halloween Fun at American Museum of Natural History](https://www.amnh.org/calendar/halloween-celebration)
+
+<img src="Images/halloween.png" class="inline"/>
 
 Event Information
 - Dates: Saturday, October 28, 2017
