@@ -26,3 +26,11 @@ Event Information
 - Dates: Saturday, October 28, 2017
 - Times: 2:00PM – 6:00pm
 - Tickets: $15 for non-members & $12 for Museum Members
+
+10/29 [Halloween Pumpkin Flotilla](http://www.centralparknyc.org/events/individual-events/halloween.html?utm_medium=social&utm_source=cpc-engagement&utm_campaign=201709_halloween&utm_content=fb?referrer=https://l.facebook.com/) 
+
+Event Information
+- Dates: Sunday, October 29, 2017
+- Times: 4:00PM – 7:00pm
+- Location: Location: Harlem Meer (East side from 106th to 110th Street)
+- Tickets: Free
