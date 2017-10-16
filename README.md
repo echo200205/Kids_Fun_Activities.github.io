@@ -2,7 +2,7 @@
 
 10/21 Port Imperial Autumn Festival
 
-<img src="https://github.com/echo200205/Kids_Fun_Activities.github.io/blob/master/Images/Fall-Festival.jpg">
+<img src="Images/Fall-Festival.jpg">
 
 Event Information
 - Dates: Saturday, October 21, 2017
