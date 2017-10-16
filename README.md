@@ -43,6 +43,8 @@ Event Information
 
 10/31 Family Halloween Bash on the Pedestrian Mall
 
+<img src="Images/Bash.png" class="inline"/>
+
 Event Information
 - Dates: Tuesday, October 31, 2017
 - Times: 3:00PM – 7:00pm
