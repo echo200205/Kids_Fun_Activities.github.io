@@ -29,6 +29,8 @@ Event Information
 
 10/29 [Halloween Pumpkin Flotilla](http://www.centralparknyc.org/events/individual-events/halloween.html?utm_medium=social&utm_source=cpc-engagement&utm_campaign=201709_halloween&utm_content=fb?referrer=https://l.facebook.com/) 
 
+<img src="Images/pumpkin-flotilla-night.png" class="inline"/>
+
 Event Information
 - Dates: Sunday, October 29, 2017
 - Times: 4:00PM – 7:00pm
