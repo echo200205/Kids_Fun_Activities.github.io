@@ -12,6 +12,7 @@ Event Information
 - Activities:  Hay Rides, Pumpkin Patch, Face Painting, Balloon Twister
 
 10/28 [Opening Day at Bryant Park](http://bryantpark.org/amenities/bank-of-america-winter-village-at-bryant-park) 
+
 Event Information
 - Dates: Saturday, October 28, 2017
 - Times: 12:00PM – 10:00pm
