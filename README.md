@@ -3,7 +3,7 @@
 10/21 Port Imperial Autumn Festival
 Event Information
 - Dates: Saturday, October 21, 2017
-- Times: 11:00AM –3:00pm
+- Times: 11:00AM – 3:00pm
 - Location: South park (Behind PF Chang's)
 - Tickets: Free
 - Activities:  Hay Rides, Pumpkin Patch, Face Painting, Balloon Twister
@@ -12,5 +12,5 @@ Event Information
 
 Event Information
 - Dates: Saturday, October 28, 2017
-- Times: 2–6 pm
+- Times: 2:00PM – 6:00pm
 - Tickets: $15 for non-members & $12 for Museum Members
